@@ -1,0 +1,26 @@
+#player,#player a{ color:#3a55d4; }
+#player{ background:url(http://static.tumblr.com/gm6newy/BLOm6x2h3/barrinha_estrela_rosa.png); background-position:bottom; background-color: #000000 }
+#player .mainImage{ background:url(http://static.tumblr.com/gm6newy/vIqm6x2hp/base_player.png); }
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(http://static.tumblr.com/gm6newy/RxKm6x2yt/pausa_rosa.png); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#06041a;  }
+#player #seekerBuffered{ background-color:#131c45; }
+#player #seekerSliderBase{ background-color:#06041a; }
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/gm6newy/vIqm6x2hp/base_player.png); }
+#playlist,#playlist .module,#playlist h3{ border-color:#333;}
+#playlist .module{ color:#3a55d4; background-color:#0000000; }
+#playlist h3{ background:url(http://static.tumblr.com/gm6newy/gejm6x333/playlist_rosa.png); color:#3a55d4; background-color:#000000; }
+#playlist .even{background-color:#000000;}
+#playlist .odd{ background-color:#000000;}
+#playlist .focus{ background-color:#000000; color:#3a55d4;}
